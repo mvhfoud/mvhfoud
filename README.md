@@ -3,11 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+Backend+Dev;Always+learning&center=true&width=520&height=45">
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgresql,redis,rabbitmq,docker,kubernetes,gcp" width="400" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgresql,redis,rabbitmq,docker,kubernetes,gcp,git" width="400" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,html,css,js,react,tensorflow,pytorch,unity,photoshop,illustrator" width="400" />
+  <img src="https://skillicons.dev/icons?i=github,linux,html,css,js,react,tensorflow,pytorch,unity,photoshop" width="400" />
 </p>
 
 
@@ -51,3 +53,4 @@ I'm currently obsessed with designing and training AI models and pipelines along
 - **AI Material Recognition** Diffusion & ControlNet magic that helps industrial designers skip the manual work.
 - **OrchestrAI-tor** My attempt to make LLMs act like a team.
 
+---
