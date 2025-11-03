@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgresql,redis,rabbitmq,docker,kubernetes,gcp,git" width="400" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgresql,redis,rabbitmq,docker,kubernetes,gcp,git" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,html,css,js,react,tensorflow,pytorch,unity,photoshop" width="400" />
+  <img src="https://skillicons.dev/icons?i=github,linux,html,css,js,react,tensorflow,pytorch,unity,photoshop" width="300" />
 </p>
 
 
