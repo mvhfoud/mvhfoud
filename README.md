@@ -1,45 +1,22 @@
 <h1 align="center">Hey there 👋, I'm Youssef Mahfoud</h1>
-<h3 align="center">AI & Fullstack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer+%7C+Backend+Dev;Always+learning&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+Backend+Dev;Always+learning&center=true&width=520&height=45">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgresql,redis,rabbitmq,docker,kubernetes,gcp,git,github,linux,html,css,js,react,tensorflow,pytorch,unity,photoshop,illustrator" width="400" />
 </p>
 
----
+--- 
 
 ### About Me  
-🎓 I started with **General and Industrial Engineering**, fell in love with **AI** and human brain, and now I make machines do smart things (mostly on purpose).
-⚙️ I love designing systems that actually *work* — clean, efficient, and not held together with duct tape.(maybe sometimes)
-💭 My current obsessions: **Backend systems**, **3D Vision**, **Process Automation**.
-🌍 Portfolio → [**youssefmahfoud.xyz**](https://youssefmahfoud.xyz)  
-📬 Email → **youssefmahartiste@gmail.com**
+I started with **General and Industrial Engineering** at ENSAM Mekned, fell in love with **AI** and human brains, then did a Masters at IMT-A/ENIB in Autonomous intelligent Systems.
+
+
+I'm currently obsessed with designing and training AI models and pipelines along with classic **Backend systems**, and **Process Automations**.
 
 ---
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgresql,redis,rabbitmq,docker,kubernetes,gcp,git,github,linux,html,css,js,react,tensorflow,pytorch,unity,photoshop,illustrator" />
-</p>
-
-> I’m fluent in **Python**, **C++**.
-
----
-
-### Featured Projects  
-- **[Interactive Museum](https://github.com/mvhfoud/Interactive_museum)** A virtual museum that rebuilds itself around your curiosity. 
-- **AI Material Recognition** Diffusion & ControlNet magic that helps industrial designers skip the manual work.
-- **OrchestrAI-tor** My attempt to make LLMs act like a team.
-
----
-
-### GitHub Stats  
-
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mvhfoud&theme=tokyonight" />
-</p>
-
----
 
 ### Connect With Me  
 
@@ -57,6 +34,24 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### GitHub Stats  
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mvhfoud&theme=tokyonight" />
+</p>
+
+
+
+---
+
+
+### Featured Projects  
+- **[Interactive Museum](https://github.com/mvhfoud/Interactive_museum)** A virtual museum that rebuilds itself around your curiosity. 
+- **AI Material Recognition** Diffusion & ControlNet magic that helps industrial designers skip the manual work.
+- **OrchestrAI-tor** My attempt to make LLMs act like a team.
 
 ---
 
